@@ -1,4 +1,4 @@
-# Code of Ian Kelley for the Atlas Foundation Problems
+# Code of Ian Kelley for the Atlas Fellowship Problems
 
 import pandas as pd
 
