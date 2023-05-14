@@ -1,4 +1,4 @@
-/// Code of Ian Kelley for the Atlas Foundation Problems
+/// Code of Ian Kelley for the Atlas Fellowship Problems
 #include <stdio.h>
 #include <stdlib.h>
 
